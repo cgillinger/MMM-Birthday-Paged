@@ -195,17 +195,6 @@ config: {
 - canvas-confetti: ^1.9.3
 - MMM-pages or MMM-Carousel (recommended)
 
-## Creating Custom Firework Effects
-
-You can create your own firework effects by adding new JavaScript files to the `fireworks` directory. Each effect must:
-
-1. Export a class named `Fireworks`
-2. Implement the standard API:
-   - `start(duration)` method
-   - `cleanup()` method
-3. Follow the module's canvas setup requirements
-
-See the existing effects in the `fireworks` directory for examples.
 
 ## Credits
 
