@@ -128,11 +128,10 @@ Note: The ability to select effects via config.js will be added in a future upda
 
 ### Important Configuration Notes
 
-1. Always place this module on its own page in your rotation
-2. The module completely dims any other content when active
-3. First page transition after startup might display slightly differently
-4. Consider setting `rotationDelay` equal to `rotationTime` for smoother transitions
-5. Some firework effects may be more resource-intensive than others
+1. The module completely dims any other content when active
+2. First page transition after startup might display slightly differently
+3. Consider setting `rotationDelay` equal to `rotationTime` for smoother transitions
+4. Some firework effects may be more resource-intensive than others
 
 ## Language Support
 
