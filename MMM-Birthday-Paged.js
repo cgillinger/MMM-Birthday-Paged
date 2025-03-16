@@ -14,7 +14,7 @@ Module.register("MMM-Birthday-Paged", {
         birthdays: [],           
         fireworkDuration: "infinite",
         confettiDuration: "infinite",
-        debug: true,             
+        debug: false,             
         startupDelay: 2000      
     },
 
